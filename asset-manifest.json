@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mirzasafwan.github.io/LearnReact/static/css/main.e6c13ad2.css",
+    "main.js": "/mirzasafwan.github.io/LearnReact/static/js/main.26f4086c.js",
+    "static/js/787.9702b44e.chunk.js": "/mirzasafwan.github.io/LearnReact/static/js/787.9702b44e.chunk.js",
+    "index.html": "/mirzasafwan.github.io/LearnReact/index.html",
+    "main.e6c13ad2.css.map": "/mirzasafwan.github.io/LearnReact/static/css/main.e6c13ad2.css.map",
+    "main.26f4086c.js.map": "/mirzasafwan.github.io/LearnReact/static/js/main.26f4086c.js.map",
+    "787.9702b44e.chunk.js.map": "/mirzasafwan.github.io/LearnReact/static/js/787.9702b44e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.26f4086c.js"
+  ]
+}
